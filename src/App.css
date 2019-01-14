@@ -1,0 +1,137 @@
+.ui-layout {
+  background:url(Images/newyear-background.jpg) center center;
+  height: 1000px;
+  background-size: cover;
+}
+
+.firework.right {
+  transform: scaleX(-1);
+}
+
+.ui-title {
+  margin-top:-150px;
+}
+
+.ui-title h2 {
+  margin: 0;
+  color: #FEFCC0;
+}
+
+.ui-title h3 {
+  color: #FFF468;
+}
+
+.ui-logo .firework {
+  height: 180px;
+  margin-left:150px;
+  margin-right: 150px;
+}
+
+.ui-envelope {
+  position: relative;
+  background: #FF0D32;
+  height: 300px;
+  cursor: pointer; 
+}
+
+.ui-envelope::after {
+  position: absolute;
+  content:'';
+  border:1px solid #FFF468;
+  border-radius: 20px ;
+  top:30%;
+  width: 100%;
+}
+
+.ui-envelope::before {
+  position: absolute;
+  content:'';
+  border: 20px solid #FFF468;
+  border-radius: 50%;
+  top:70px;
+  left: 110px;
+}
+
+.ui-price {
+  position: absolute;
+  bottom: 100px;
+  left: 100px;
+}
+
+.ui-price span {
+  font-size: 32px;
+  color:#FEFCC0;
+  font-weight: bold;
+}
+
+.modal-content {
+  background: #FF0D32;
+  border:2px solid #FFF468;
+}
+
+.modal-footer {
+  border-top-color: transparent;
+}
+
+.ui-notice p {
+  font-size: 32px;
+  text-align: center;
+  color: #FFF468;
+}
+
+.ui-close-btn, .ui-close-btn:hover  {
+  background: #C8151B;
+  color: #FFF468;
+  border-color: transparent;
+}
+
+@media (max-width:768px) {
+  .ui-layout {
+    height: 900px;
+  }
+
+  .ui-title {
+    margin-top: 0;
+    padding-top: 0!important;
+  }
+  
+  .ui-logo .firework {
+    display: inline-block;
+    height: 100px;
+    margin: 0;
+  }
+
+  .ui-envelope {
+    height: 200px;
+  }
+
+  .ui-price {
+    left:50px;
+    top:100px;
+  }
+
+  .ui-envelope::before {
+    position: absolute;
+    content:'';
+    border: 20px solid #FFF468;
+    border-radius: 50%;
+    top:40px;
+    left: 60px;
+  }
+}
+
+@media (max-width:576px) {
+  .mobile:nth-child(4n+1) {
+    display: none;
+  }
+}
+
+
+/* @keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
