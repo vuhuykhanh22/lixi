@@ -16,7 +16,7 @@ export default class Envelope extends Component {
     randomPrice() {
         const imageArray = ['1', '2', '3'];
         const random = imageArray[Math.floor(Math.random() * imageArray.length)];
-        const priceArray = ['30k', '30k', '40k', '40k', '40k', '50k', '50k', '80k', '80k', '40k','100k', '150k','40k','200k','50k'];
+        const priceArray = ['30k', '30k', '50k', '50k', '70k', '70k', '50k','100k', '150k','50k','30k','50k','30k','30k','70k','30k','50k','50k'];
         const rand = priceArray[Math.floor(Math.random() * priceArray.length)];
 
         this.setState({
