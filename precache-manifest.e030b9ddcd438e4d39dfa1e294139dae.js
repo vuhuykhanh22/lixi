@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/lixi/static/media/newyear-background.39cbd098.jpg"
   },
   {
-    "revision": "741c67c23bec0087e7ad",
-    "url": "/lixi/static/css/main.52f16185.chunk.css"
+    "revision": "63dd383053a786a8a92f",
+    "url": "/lixi/static/css/main.ce777f31.chunk.css"
   },
   {
     "revision": "aaf542d004e6143833bc9a01098c36f1",
@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/lixi/static/media/firework.e6ae4033.gif"
   },
   {
-    "revision": "741c67c23bec0087e7ad",
-    "url": "/lixi/static/js/main.741c67c2.chunk.js"
+    "revision": "63dd383053a786a8a92f",
+    "url": "/lixi/static/js/main.63dd3830.chunk.js"
   },
   {
     "revision": "331d8457118c2fe652e3819aa5309830",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/lixi/static/css/1.361302d1.chunk.css"
   },
   {
-    "revision": "752bbff1470fda03afed6e6208b9906c",
+    "revision": "60f9cc391acb4c4825748eb08655fa23",
     "url": "/lixi/index.html"
   }
 ];

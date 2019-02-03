@@ -1,7 +1,7 @@
 {
-  "main.css": "/lixi/static/css/main.52f16185.chunk.css",
-  "main.js": "/lixi/static/js/main.741c67c2.chunk.js",
-  "main.js.map": "/lixi/static/js/main.741c67c2.chunk.js.map",
+  "main.css": "/lixi/static/css/main.ce777f31.chunk.css",
+  "main.js": "/lixi/static/js/main.63dd3830.chunk.js",
+  "main.js.map": "/lixi/static/js/main.63dd3830.chunk.js.map",
   "static/css/1.361302d1.chunk.css": "/lixi/static/css/1.361302d1.chunk.css",
   "static/js/1.ab305a38.chunk.js": "/lixi/static/js/1.ab305a38.chunk.js",
   "static/js/1.ab305a38.chunk.js.map": "/lixi/static/js/1.ab305a38.chunk.js.map",
@@ -13,9 +13,9 @@
   "static/media/happy-3.gif": "/lixi/static/media/happy-3.a907eab5.gif",
   "static/media/happy-4.gif": "/lixi/static/media/happy-4.aaf542d0.gif",
   "static/media/App.css": "/lixi/static/media/newyear-background.39cbd098.jpg",
-  "static/css/main.52f16185.chunk.css.map": "/lixi/static/css/main.52f16185.chunk.css.map",
+  "static/css/main.ce777f31.chunk.css.map": "/lixi/static/css/main.ce777f31.chunk.css.map",
   "static/css/1.361302d1.chunk.css.map": "/lixi/static/css/1.361302d1.chunk.css.map",
   "index.html": "/lixi/index.html",
-  "precache-manifest.71d7e10ba8daf63819fa2d1d2e30711e.js": "/lixi/precache-manifest.71d7e10ba8daf63819fa2d1d2e30711e.js",
+  "precache-manifest.e030b9ddcd438e4d39dfa1e294139dae.js": "/lixi/precache-manifest.e030b9ddcd438e4d39dfa1e294139dae.js",
   "service-worker.js": "/lixi/service-worker.js"
 }
